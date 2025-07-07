@@ -19,10 +19,10 @@ public class projetoCartao {
         Scanner scanner = new Scanner(System.in);
         System.out.println("██████╗  █████╗ ███╗   ██╗ ██████╗  ██████╗ ");
         System.out.println("██╔══██╗██╔══██╗████╗  ██║██╔════╝ ██╔═══██╗");
-        System.out.println("██████╔╝███████║██╔██╗ ██║██║  ███╗██║   ██║");
-        System.out.println("██╔═══╝ ██╔══██║██║╚██╗██║██║   ██║██║   ██║");
-        System.out.println("██║     ██║  ██║██║ ╚████║╚██████╔╝╚██████╔╝");
-        System.out.println("╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ");
+        System.out.println("██████╔╝███████║██╔██╗ ██║██║      ██║   ██║");
+        System.out.println("██╔══██ ██╔══██║██║╚██╗██║██║      ██║   ██║");
+        System.out.println("███████ ██║  ██║██║ ╚████║╚██████╗ ╚██████╔╝");
+        System.out.println("╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ");
 
         main();
         
